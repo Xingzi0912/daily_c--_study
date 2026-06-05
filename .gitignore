@@ -1,0 +1,16 @@
+# 编译生成的文件
+build/
+*.exe
+*.o
+*.obj
+
+# VS Code 配置（个人设置，不需要同步）
+.vscode/
+
+# 调试文件
+*.pdb
+*.ilk
+
+# 系统文件
+.DS_Store
+Thumbs.db
